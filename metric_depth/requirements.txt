@@ -1,5 +1,6 @@
 matplotlib
 opencv-python
 open3d
-torch
-torchvision
+torch>=2.0.1,<=2.1.0
+torchvision>=0.15.0,<=0.16.0
+xformers==0.0.22
